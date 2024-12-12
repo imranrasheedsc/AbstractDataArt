@@ -29,9 +29,7 @@ Dataset: https://www.kaggle.com/datasets/isaienkov/nba-top-50-alltime-scorers
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram](image.png)
 
 ## Video Demo
 
@@ -43,7 +41,7 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for Youtube Video](image-1.png)]([https://www.youtube.com/shorts/9BQUSY5PwaE])
 
 ## Description
 
